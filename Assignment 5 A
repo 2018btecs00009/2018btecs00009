@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+<meta charset="UTF-8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+</head>
+<body>
+<header>
+<h1>
+          Walchand College of Engineering Sangli
+</h1>
+<nav>
+<u>
+<li><a href="http://www.walchandsangli.ac.in/">HOME</a></li>
+<li><a href="http://www.walchandsangli.ac.in/AllDept.asp">Department</a></li>
+ </u>
+ </nav>
+ </header>
+ <main>
+ <h2>
+      Chemistry Department
+ </h2>
+ <img src="Chemistry.jpg" alt="">
+<P>
+ The Department of Chemistry Engineering was the first inchoative discipline at Walchand College of Engineering, Sangli and the oldest in Southern Maharashtra region. Starting its journey in 1947, the department has contributed in producing several eminent engineers who are in key positions of the Government organizations, public sector and infrastructure companies and have brought in significant contributions in the planning and execution of Chemistry Engineering projects in various regions of India. The Department offers a four year programme leading to the Bachelor’s Degree in Chemistry Engineering (B. Tech.) and a two-year programme leading to Master’s degree (M. Tech.) in Chemistry engineering with specialization in Structural Engineering and Environmental Engineering.
+<br>
+<br>
+The Department is known for its reputed faculty having expertise in diverse fields. The faculty of the department continues to strive loftier by exploring new frontiers of Chemistry engineering, imparting the latest technical knowledge to the students and conducting high quality of research. The faculty has contributed more than hundred research papers in various Journals and Conferences. The faculty also renders technical advice on live engineering problems in the field of Geotechnical, Structural, Environmental, Hydraulics, Transportation and Water Resources   Engineering etc., to various Government and Private Sector companies throughout the state. It has built up a wide research potential in structural and Environmental Engineering. The department also has other well equipped engineering laboratories in the field of concrete and material testing, structural dynamics, structural health monitoring, Geotechnical, Hydraulics, Transportation, Surveying and Construction. Apart from the Central computing facility the department has its own computing facility with more than 60 nodes and continuous internet access. The research projects of the department are funded by various agencies such as Ministry of Human Resource Development (MHRD), All India Council for Technical Education (AICTE), Department of Science and Technology (DST), Maharashtra Pollution Control Board (MPCB), Fund for Improvement of S&T infrastructure (FIST), MODROB, TEQIP etc. 
+</P>
+<section> 
+<div>
+ <a href="https://www.google.com/search?q=wce+moodle&oq=wce+moodle&aqs=chrome..69i57.5396j0j1&sourceid=chrome&ie=UTF-8">Link for Student login</a>
+</div>
+</section>
+</main>
+ <footer>
+  <pre>
+Walchand College of Engineering ,
+A/P: Vishrambag,
+Sangli - 416 415
+Maharashtra, India
+Tel: +91-233-2300383
+</pre>
+<p>
+&copy; Copyrights Walchand College of Engineering Sangli. All rights are reserved.
+ </p>
+ </footer>
+ </body>
+ <body></body>
+ </html>
