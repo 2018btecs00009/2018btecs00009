@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Brainy Quote</title>
+</head>
+ <body>
+ <header>
+ <h1>
+<q>Motivational Quotes</q>
+</h1>
+</header>
+<article>
+<section>
+<blockquote>
+Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.
+<em>-Bradley Whitford</em>
+</blockquote>
+</section>
+<section>
+<blockquote>
+Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do.
+<em>-Pope John XXIII</em>
+</blockquote>
+</section>
+<section>
+<blockquote>
+I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.
+<em>-Dan Millman</em>
+</blockquote>
+</section>
+</article>
+<footer>
+<h2>
+<a href="https://www.brainyquote.com/">Visit Us</a>
+</h2>
+</footer>
+</body>
+</html>
